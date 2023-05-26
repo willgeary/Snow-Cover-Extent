@@ -1,2 +1,3 @@
 # Snow-Cover-Extent
-Is Northern Hemisphere Snow Cover Extent Decreasing?
+
+![](https://github.com/Snow-Cover-Extent/snow-gif.gif)
