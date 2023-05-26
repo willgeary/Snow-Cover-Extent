@@ -1,3 +1,3 @@
 # Snow-Cover-Extent
 
-![](https://github.com/willgeary/Snow-Cover-Extent/snow-gif.gif)
+![](https://raw.githubusercontent.com/willgeary/Snow-Cover-Extent/main/snow-gif.gif)
